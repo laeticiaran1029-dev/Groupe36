@@ -1,0 +1,4 @@
+multithreading : 
+   thread principal ; main->serveur 
+   il faut plusieur thread pour supporter plusieurs clients
+   
